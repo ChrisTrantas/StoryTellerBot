@@ -1,0 +1,22 @@
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\StoryTeller.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\StoryTeller.exe
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\StoryTeller.pdb
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Discord.Net.Commands.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Discord.Net.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Newtonsoft.Json.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\RestSharp.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\WebSocket4Net.dll
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Newtonsoft.Json.xml
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.xml
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\bin\Debug\RestSharp.xml
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\obj\Debug\StoryTeller.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\obj\Debug\StoryTeller.exe
+c:\users\chris\documents\visual studio 2015\Projects\StoryTeller\StoryTeller\obj\Debug\StoryTeller.pdb
+D:\Repos\StoryTellerBot\StoryTeller\bin\Debug\StoryTeller.exe.config
+D:\Repos\StoryTellerBot\StoryTeller\obj\Debug\StoryTeller.exe
+D:\Repos\StoryTellerBot\StoryTeller\obj\Debug\StoryTeller.pdb
